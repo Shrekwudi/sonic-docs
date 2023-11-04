@@ -1,5 +1,5 @@
 ---
-title: 1. JSON API
+title: Intro to JSON API
 description: About the JSON API
 ---
 ## Interacting with Sonic Screwdriver through the JSON API

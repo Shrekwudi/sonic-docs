@@ -1,6 +1,8 @@
 ---
-title: 2. Installation
+title: Installation
 description: Installing Sonic Screwdriver
+sidebar:
+    order: 2
 ---
 To install Sonic Screwdriver, you can use the following commands:
 

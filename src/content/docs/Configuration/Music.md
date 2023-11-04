@@ -1,6 +1,6 @@
 ---
-title: 1. Music
-description: Configure your music in Sonic Screwdriver
+title: Music Library
+description: Configure your Music in Sonic Screwdriver
 ---
 To configure your music, you can open up `config.py` in your Sonic Screwdriver installation directory.
 
