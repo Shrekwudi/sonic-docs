@@ -7,7 +7,7 @@ Plugins are extensions for your Sonic Screwdriver server. They can provide the c
 
 ## Available Plugins
 
-| Plugin Name     | Function                              | ID                     | Author       |
-|-----------------|---------------------------------------|------------------------|--------------|
+| Plugin Name     | Function                              | ID                     | Author                                         |
+| --------------- | ------------------------------------- | ---------------------- | ---------------------------------------------- |
 | YouTube Music   | Listen to Music provided by YouTube   | .YouTube Music.sonic   | [Ethan Martin](https://github.com/yuckdevchan) |
 | iTunes Podcasts | Listen to Podcasts provided by iTunes | .iTunes Podcasts.sonic | [Ethan Martin](https://github.com/yuckdevchan) |
